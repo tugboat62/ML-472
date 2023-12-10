@@ -3,7 +3,7 @@ import cv2
 from matplotlib import pyplot as plt
 
 # Provide the path to the image file
-image_path = "image.jpg"
+image_path = "E:\L4T2\ML-472\Offline1\image.jpg"
 
 # Read the image
 image = cv2.imread(image_path)
